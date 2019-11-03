@@ -1,0 +1,37 @@
+[
+{
+"id": "AUTHOR-1",
+"title": "Introducing React's Error Code System",
+"date": "Mon Jul 11 2016 00:00:00 GMT+0000 (UTC)",
+"authorId": "A-11111",
+"body": "Building a better developer experience has been one of the things that React deeply cares about, and a crucial part of it is to detect anti-patterns/potential errors early and provide helpful error messages when things (may) go wrong. However, most of these only exist in development mode; in production, we avoid having extra expensive assertions and sending down full error messages in order to reduce the number of bytes sent over the wire."
+},
+{
+"id": "AUTHOR-2",
+"title": "Mixins Considered Harmful",
+"date": "Wed Jul 13 2016 00:00:00 GMT+0000 (UTC)",
+"authorId": "A-33333",
+"body": "“How do I share the code between several components?” is one of the first questions that people ask when they learn React. Our answer has always been to use component composition for code reuse. You can define a component and use it in several other components. \nIt is not always obvious how a certain pattern can be solved with composition. React is influenced by functional programming but it came into the field that was dominated by object-oriented libraries. It was hard for engineers both inside and outside of Facebook to give up on the patterns they were used to."
+},
+{
+"id": "AUTHOR-3",
+"title": "Create Apps with No Configuration",
+"date": "Fri Jul 22 2016 00:00:00 GMT+0000 (UTC)",
+"authorId": "A-44444",
+"body": "Create React App is a new officially supported way to create single-page React applications. It offers a modern build setup with no configuration. \n\nGetting Starte \nInstallation \nFirst, install the global package:"
+},
+{
+"id": "AUTHOR-4",
+"title": "Relay: State of the State",
+"date": "Fri Aug 05 2016 00:00:00 GMT+0000 (UTC)",
+"authorId": "A-22222",
+"body": "This month marks a year since we released Relay and we'd like to share an update on the project and what's next. \nA Year In Review \nA year after launch, we're incredibly excited to see an active community forming around Relay and that companies such as Twitter are using Relay in production:"
+},
+{
+"id": "AUTHOR-5",
+"title": "React v15.5.0",
+"date": "Fri Apr 07 2017 00:00:00 GMT+0000 (UTC)",
+"authorId": "A-33333",
+"body": "It's been exactly one year since the last breaking change to React. Our next major release, React 16, will include some exciting improvements, including a complete rewrite of React's internals. We take stability seriously, and are committed to bringing those improvements to all of our users with minimal effort.\n To that end, today we're releasing React 15.5.0."
+}
+]

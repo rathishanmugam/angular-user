@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "first": "Andrew",
+    "last": "Clark",
+    "email": "js@gmail.com",
+    "phone": "501-555-5555",
+    "location": "portland,oregon",
+    "hobby": "photography"
+  },
+  {
+    "id": 2,
+    "first": "joe",
+    "last": "martin",
+    "email": "efd@gmail.com",
+    "phone": "501-555-5555",
+    "location": "newyork,newyork",
+    "hobby": "coding"
+  },
+  {
+    "id": 3,
+    "first": "julie",
+    "last": "robert",
+    "email": "js@gmail.com",
+    "phone": "501-555-5555",
+    "location": "denver,colordo",
+    "hobby": "programming"
+  },
+  {
+    "id": 4,
+    "first": "dan",
+    "last": "abramov",
+    "email": "jedss@gmail.com",
+    "phone": "501-555-5555",
+    "location": "bose,idaho",
+    "hobby": "cooking"
+  }
+
+]
